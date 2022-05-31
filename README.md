@@ -10,7 +10,7 @@ _38 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/37-grupe-frontend-demo/
+Site published at: https://front-end-by-rimantas.github.io/38-grupe-frontend-demo/
 
 Design: None
 
